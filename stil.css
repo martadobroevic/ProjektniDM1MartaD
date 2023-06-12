@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:darkolivegreen;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	line-height: 18px;
+	width: 1450px;
+	background-color:darkorange;
+	padding: 10px;
+}
+ul {	padding:20px; 
+			margin-left: auto; 
+			margin-right:auto;  
+			width: 400px;
+			} 
+	li {	display:inline; 
+			background-color:LightCoral;
+			padding:20px;
+			border: 2px solid IndianRed;
+		}
+	li:active {background-color:IndianRed;}
+li a {	color:white; 
+			font-family: "Montserrat", sans-serif; 
+			text-transform: uppercase;
+			}
+	li a:link {text-decoration:none;}
+	li a:hover {text-decoration:underline;}
+a:link {
+	color:mediumorchid;
+	background-color:lightcyan;
+	padding: 1px;
+	line-height: 35px;
+	border: 0px solid #000000;
+}
+.container {
+    text-align: center;
+}
+h1 {font-size: 50px}
+h2 {font-size: 40px}
+h1 {font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color:darkcyan;
+}
+h2 {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+color:darkseagreen;}
+h3 {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+color: aquamarine;
+font-size: 30px;}
+.font2 {
+  font-family: MartaDobroevic;
+	color: palevioletred;
+	font-size: 60px;
+}
+body {background-image: url("93089.jpg")}
